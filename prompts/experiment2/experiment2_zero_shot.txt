@@ -1,0 +1,21 @@
+# Target Models: GPT-4o, LLaMA, DeepSeek, Gemma
+# Task: Judge if the hypothesis necessarily follows from the premise.
+# Notes: No NLI labels are used to avoid priming; models must output E, C, or N only.
+
+Prompt:
+Consider the truth value of the premise. If the premise is true, does it necessarily mean that the hypothesis must also be true?
+
+Output:
+E — if the hypothesis must always be true  
+C — if the hypothesis must always be false  
+N — if the hypothesis may be either true or false
+
+Do not output anything other than E, C, or N.
+
+---
+
+Template for data injection:
+
+Premise: {{premise}}  
+Hypothesis: {{hypothesis}}  
+Output:

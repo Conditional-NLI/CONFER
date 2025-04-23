@@ -1,0 +1,66 @@
+# Target Models: GPT-4o, LLaMA, DeepSeek, Gemma
+# Task: Judge if the hypothesis necessarily follows from the premise.
+# Notes: No NLI labels are used to avoid priming; models must output E, C, or N only.
+# Notes: Includes 10 examples (Types 1–5 with "again" and "possessive" triggers) to guide the model. Output must be E, C, or N.
+
+Prompt (repeated for every turn):
+Consider the truth value of the premise. If the premise is true, does it necessarily mean that the hypothesis must also be true?
+
+Output:
+E — if the hypothesis must always be true  
+C — if the hypothesis must always be false  
+N — if the hypothesis may be either true or false  
+
+Do not output anything other than E, C, or N.
+
+---
+
+### Few-shot examples:
+
+Premise: Sam believes that if the boss rewarded a good behavior by Nava, they'll never reward a good behavior by Nava again.  
+Hypothesis: The boss rewarded a good behavior by Nava.  
+Output: N
+
+Premise: If Alexander has a bright roommate, he'll rest with his bright roommate.  
+Hypothesis: Alexander has a bright roommate.  
+Output: N
+
+Premise: It's not the case that if Curtis reports on this issue, he'll never report on an issue again.  
+Hypothesis: Curtis has reported on an issue before.  
+Output: N
+
+Premise: Sam believes that if Marley has a curious friend, he gives his friend a ride home.  
+Hypothesis: Marley has a friend.  
+Output: N
+
+Premise: Sam believes that if Alice ever drank a cocktail, she didn't drink martini again.  
+Hypothesis: Alice has drunk a martini.  
+Output: N
+
+Premise: If Meredith has video games, she will play her immersive video game.  
+Hypothesis: Meredith has an immersive video game.  
+Output: N
+
+Premise: If Matt is a scuba diver, he'll bring his wetsuit.  
+Hypothesis: Matt has a wetsuit.  
+Output: E
+
+Premise: If Tina has a helicopter, I wonder how low Tina's helicopter hovers.  
+Hypothesis: Tina has a helicopter.  
+Output: N
+
+Premise: If Emily passes her driving test, she'll never read a book by Dan Brown again.  
+Hypothesis: Emily has read a book by Dan Brown before.  
+Output: E
+
+Premise: If Margaret's flight arrives on time, her friend will be waiting for her at the airport.  
+Hypothesis: Margaret has a friend.  
+Output: E
+
+---
+
+### Template for data injection:
+
+Premise: {{premise}}  
+Hypothesis: {{hypothesis}}  
+Output:

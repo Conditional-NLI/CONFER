@@ -1,0 +1,109 @@
+# Prompt Template for Type 1: possessive trigger (his, her, etc.)
+# Model: GPT-3.5-Turbo
+
+Prompt:
+Generate a sentence in the form:  
+If [subject] has [adjective] [possession], they'll [verb] [adjective] [possession] [complement].
+
+Examples:
+If John has a young daughter, he'll bring his young daughter to the party.  
+If Melissa has an older son, she'll furnish her older son's house.  
+If Bob and Mary have a young daughter, they'll feed their young daughter.
+
+
+# Prompt Template for Type 1: again trigger
+# Model: GPT-3.5-Turbo
+
+Prompt:
+Generate a sentence in the form:  
+If [subject] [verb in past tense] [instance], they'll never [verb] [instance] again.
+
+Examples:
+If he learned a new skill, he'll never learn a new skill again.  
+If Alice watched a movie by Nolan, she'll never watch a movie by Nolan again.
+
+
+# Prompt Template for Type 2: possessive trigger
+# Model: GPT-3.5-Turbo
+
+Prompt:
+Generate a sentence in the form:  
+If [subject] has [adjective] [possession], they'll [verb] [adjective] [possession] [complement].
+
+Examples:
+If John has a young daughter, he'll bring his young daughter to the party.  
+If Melissa has an older son, she'll furnish her older son's house.  
+If Bob and Mary have a young daughter, they'll feed their young daughter.
+
+# Prompt Template for Type 2: again trigger
+# Model: GPT-3.5-Turbo
+
+Prompt:
+Generate a sentence in the form:  
+If [subject] [verb in present tense] this [instance], they'll never [verb] [instance] again.
+
+Examples:
+If he learns this new skill, he'll never learn a new skill again.  
+If you watch this movie by Nolan, you'll never watch a movie by Nolan again.
+
+# Prompt Template for Type 3: again trigger
+# Model: GPT-3.5-Turbo
+
+Prompt:
+Generate a sentence in the form:  
+If [subject] ever [verb in past tense] a [noun], [pronoun] didn't [verb] [instance] again.
+
+Examples:
+If she ever watched a movie, she didn't watch Star Wars again.  
+If he ever read a book, he didn't read Harry Potter again.  
+If Alice ever listened to a symphony, she didn't listen to Beethoven's 5th again.
+
+# Prompt Template for Type 3: possessive trigger
+# Model: GPT-3.5-Turbo
+
+Prompt:
+Generate a sentence in the form:  
+If [subject] [ownership_verb] [hypernym], [pronoun] will [verb] [pronoun] [hyponym].
+
+Examples:
+If John has children, he'll bring his four-year-old daughter to the party.  
+If the king owns children, he'll kiss his sons.
+
+
+# Prompt Template for Type 4: possessive trigger with "I wonder how" construction
+# Model: GPT-3.5-Turbo
+
+Prompt:
+Generate a sentence in the form:  
+If [subject] has a [object], I wonder how [adverb] it [verb2].
+
+Examples:
+If Mary has a bird, I wonder how high it flies.  
+If John has a car, I wonder how fast it goes.  
+If Alice has a piano, I wonder how beautifully it plays.
+
+# Prompt Template for Type 4: Occupation and Tool-Based Possession Sentences
+# Model: GPT-3.5-Turbo
+
+Prompt:
+Generate a sentence in the form:  
+If [subject] is a [occupation], they'll [verb] their [tool].
+
+Examples:
+If John is a scuba diver, he'll bring his wetsuit.  
+If Melissa is a doctor, she'll use her stethoscope.
+
+
+# Prompt Template for Type 5: Possession-Based Conditional with a logical second clause based on the models contextual understanding from the examples
+# Model: GPT-3.5-Turbo
+
+Prompt:
+Prompt Structure:
+Generate a sentence in the form:  
+If [subject] [verb1] [complement], [second_clause]
+
+Examples:
+If John flies to Toronto, his sister will pick him up at the airport.  
+If Alice is invited, her daughter will bring her to the party.
+
+
