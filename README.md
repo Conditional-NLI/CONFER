@@ -1,4 +1,6 @@
 # CONFER: A Dataset for Presupposition and CONditional InFERence Evaluation
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 
 CONFER is a curated dataset of 18,000 sentence pairs in natural language inference (NLI) format, developed to investigate how language models handle presuppositions in specific types of conditional sentences. For more on the NLI task, see the [Stanford NLI project](https://nlp.stanford.edu/projects/snli/).
 
@@ -45,4 +47,11 @@ The scripts and prompt templates for both data generation and model evaluation a
 
 
 ## License
+
+This repository is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share, use, and adapt the dataset, prompts, and documentation for any purpose, provided that proper credit is given to the authors.
+
+
+
 
