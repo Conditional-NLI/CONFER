@@ -38,6 +38,9 @@ The CONFER dataset contains sentence pairs designed to evaluate model understand
 
 The scripts and prompt templates for both data generation and model evaluation are included in this repository. You are welcome to experiment with or adapt them for your own research. For a detailed description of the generation and evaluation procedures, please refer to the accompanying paper.
 
+**Download the Dataset:**  
+The dataset is also available on the [Hugging Face Datasets Hub](https://huggingface.co/ConditionalNLI/CONFER).
+
 
 
 
