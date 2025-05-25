@@ -1954,59 +1954,59 @@ premise,hypothesis,gold_label,type,uid
 "If Nadin is a swimmer, she'll bring her swimsuit.",Nadin does not have a swimsuit.,C,type4_possessive,test_type4_possessive_1953
 "If Christina is a makeup artist, she'll use her makeup sponge to fix Sara's foundation.",Christina does not have a makeup sponge.,C,type4_possessive,test_type4_possessive_1954
 "If Maria has a dog, I wonder how fast Maria's dog runs.",Maria does not have a dog.,C,type4_possessive,test_type4_possessive_1955
-"If David has a camera, I wonder how well David's camera captures moments.",David does not have a camera.,C,type4_possessive,test_type4_possessive_1956
-"If this town has a train, I wonder how fast this town's train travels.",This town does not have a train.,C,type4_possessive,test_type4_possessive_1957
-"If Amelia has a gold fish, I wonder how fast Amelia's gold fish swims.",Amelia does not have a goldfish.,C,type4_possessive,test_type4_possessive_1958
-"If Colleen has a singer friend, I wonder how well Colleen's singer friend sings.",Colleen does not have a singer friend.,C,type4_possessive,test_type4_possessive_1959
-"If Victoria's dad has a private pilot, I wonder how well Victoria's dad's private pilot navigates.",Victoria's dad does not have a private pilot.,C,type4_possessive,test_type4_possessive_1960
-"If Christine has a ship, I wonder how fast Christine's ship sails.",Christine does not have a ship.,C,type4_possessive,test_type4_possessive_1961
-"If Janet has a hawk, I wonder how high Janet's hawk soars.",Janet does not have a hawk.,C,type4_possessive,test_type4_possessive_1962
-"If Timothy has an eagle, I wonder how high Timothy's eagle flies.",Timothy does not have an eagle.,C,type4_possessive,test_type4_possessive_1963
-"If this city has a mountain, I wonder how high the city's mountain is.",This city does not have a mountain.,C,type4_possessive,test_type4_possessive_1964
-"If this garden has a bees, I wonder how close the garden's bees buzz.",This garden does not have bees.,C,type4_possessive,test_type4_possessive_1965
-"If Frank has an old clock, I wonder how clear Frank's old clock chimes.",Frank does not have an old clock.,C,type4_possessive,test_type4_possessive_1966
-"If this beach has crabs, I wonder how quickly the beach's crabs scuttle.",This beach does not have crabs.,C,type4_possessive,test_type4_possessive_1967
-"If Heidi has a frog, I wonder how high Heidi's frog jumps.",Heidi does not have a frog.,C,type4_possessive,test_type4_possessive_1968
-"If Meredith has a heavy metal, I wonder how hard Meredith's heavy metal clangs.",Meredith does not have a heavy metal.,C,type4_possessive,test_type4_possessive_1969
-"If Larry has a camera, I wonder how quick Larry's camera takes pictures.",Larry does not have a camera.,C,type4_possessive,test_type4_possessive_1970
-"If Timothy has a sailboat, I wonder how fast Timothy's sailboat cruises.",Timothy does not have a sailboat.,C,type4_possessive,test_type4_possessive_1971
-"If Frank has a pet worm, I wonder how quickly Frank's pet worm wriggles.",Frank does not have a pet worm.,C,type4_possessive,test_type4_possessive_1972
-"If the museum has mirrors, I wonder how sharp the museum's mirrors reflect.",The museum does not have mirrors.,C,type4_possessive,test_type4_possessive_1973
-"If Gerald has a toddler, I wonder how slow Gerald's toddler toddles.",Gerald does not have a toddler.,C,type4_possessive,test_type4_possessive_1974
-"If Brian has a pet fox, I wonder how stealthily Brian's fox sneaks near.",Brian does not have a pet fox.,C,type4_possessive,test_type4_possessive_1975
-"If the sky has a horizon, I wonder how far the sky's horizon spreads.",The sky does not have a horizon.,C,type4_possessive,test_type4_possessive_1976
-"If Wendy has a violin, I wonder how deeply Wendy's violin resonates.",Wendy does not have a violin.,C,type4_possessive,test_type4_possessive_1977
-"If Peter has a whisk in the kitchen, I wonder how smoothly Peter's whisk blends.",Peter does not have a whisk in the kitchen.,C,type4_possessive,test_type4_possessive_1978
-"If the waitress has tomatoes in her garden, I wonder how quickly the waitress's tomatoes ripen.",The waitress does not have tomatoes in her garden.,C,type4_possessive,test_type4_possessive_1979
-"If Pam and Mary have a fan at their house, I wonder how fast Pam and Mary's fan cools.",Pam and Mary do not have a fan at their house.,C,type4_possessive,test_type4_possessive_1980
-"If Carmen has a lamp, I wonder how warmly Carmen's lamp illuminates.",Carmen does not have a lamp.,C,type4_possessive,test_type4_possessive_1981
-"If Natalie has a pebble, I wonder how far Natalie's pebble skims.",Natalie does not have a pebble.,C,type4_possessive,test_type4_possessive_1982
-"If the city has a statue, I wonder how tall the city's statue stands.",The city does not have a statue.,C,type4_possessive,test_type4_possessive_1983
-"If Jacqueline has a goldfish, I wonder how long Jacqueline's goldfish survives.",Jacqueline does not have a goldfish.,C,type4_possessive,test_type4_possessive_1984
-"If Carl has made cookies, I wonder how wonderful Carl's cookies taste.",Carl did not make cookies.,C,type4_possessive,test_type4_possessive_1985
-"If Helen has onions in her garden, I wonder how sweet Helen's onions taste.",Helen does not have onions in her garden.,C,type4_possessive,test_type4_possessive_1986
-"If Carol has a marmot, I wonder how sharp Carol's marmot whistles.",Carol does not have a marmot.,C,type4_possessive,test_type4_possessive_1987
-"If this village has a populace, I wonder how loud the village's populace chatters.",This village does not have a populace.,C,type4_possessive,test_type4_possessive_1988
-"If Bethany's house has a sauna, I wonder how hot Bethany's house's sauna steams.",Bethany's house does not have a sauna.,C,type4_possessive,test_type4_possessive_1989
-"If Sonia has a violinist, I wonder how well Sonia's violinist performs.",Sonia does not have a violinist.,C,type4_possessive,test_type4_possessive_1990
-"If Carla has made an adobe, I wonder how firm Carla's adobe withstands.",Carla did not make an adobe.,C,type4_possessive,test_type4_possessive_1991
-"If Tammy has a shampoo, I wonder how fresh Tammy's shampoo smells.",Tammy does not have shampoo.,C,type4_possessive,test_type4_possessive_1992
-"If Bradley has a chestnut, I wonder how sweet Bradley's chestnut tastes.",Bradley does not have a chestnut.,C,type4_possessive,test_type4_possessive_1993
-"If Jacqueline has a caravan, I wonder how far Jacqueline's caravan trails.",Jacqueline does not have a caravan.,C,type4_possessive,test_type4_possessive_1994
-"If Bill has an hourglass, I wonder how exact Bill's hourglass measures.",Bill does not have an hourglass.,C,type4_possessive,test_type4_possessive_1995
-"If Carlos has a sister, I wonder how hardworking Carlos's sister can be.",Carlos does not have a sister.,C,type4_possessive,test_type4_possessive_1996
-"If the guest has a hummingbird, I wonder how high the guest's hummingbird flies.",The guest does not have a hummingbird.,C,type4_possessive,test_type4_possessive_1997
-"If Jeffrey has an dog, I wonder how quietly Jeffrey's dog barks.",Jeffrey does not have a dog.,C,type4_possessive,test_type4_possessive_1998
-"If Vanessa has a baby brother, I wonder how loudly Vanessa's baby brother cries.",Vanessa does not have a baby brother.,C,type4_possessive,test_type4_possessive_1999
-"If Liam has a fish, I wonder how fast Liam's fish swims.",Liam does not have a fish.,C,type4_possessive,test_type4_possessive_2000
-"If Nadia has an orchid, I wonder how fast Nadia's orchid blooms.",Nadia does not have an orchid.,C,type4_possessive,test_type4_possessive_2001
-"If Mary has plants, I wonder how fast Mary's plants grow.",Mary does not have plants.,C,type4_possessive,test_type4_possessive_2002
-"If Ali has an indoor heater, I wonder how fast Ali's indoor heater heats the room.",Ali does not have an indoor heater.,C,type4_possessive,test_type4_possessive_2003
-"If Amy has a light bulb, I wonder how brightly Amy's light bulb lightens the place.",Amy does not have a light bulb.,C,type4_possessive,test_type4_possessive_2004
-"If Tania's garden has lemons, I wonder how sour Tania's garden's lemons taste.",Tania's garden does not have lemons.,C,type4_possessive,test_type4_possessive_2005
-"If Mia has a marker, I wonder how smoothly Mia's marker draws.",Mia does not have a marker.,C,type4_possessive,test_type4_possessive_2006
-"If Sina has a training dumbell, I wonder how heavy Sina's training dumbell weighs.",Sina does not have a training dumbbell.,C,type4_possessive,test_type4_possessive_2007
-"If Omid's garden has peppers, I wonder how hot Omid's garden's peppers taste.",Omid's garden does not have peppers.,C,type4_possessive,test_type4_possessive_2008
+"If David has a camera, I wonder how well David's camera captures moments.",David does not have a camera.,N,type4_possessive,test_type4_possessive_1956
+"If this town has a train, I wonder how fast this town's train travels.",This town does not have a train.,N,type4_possessive,test_type4_possessive_1957
+"If Amelia has a gold fish, I wonder how fast Amelia's gold fish swims.",Amelia does not have a goldfish.,N,type4_possessive,test_type4_possessive_1958
+"If Colleen has a singer friend, I wonder how well Colleen's singer friend sings.",Colleen does not have a singer friend.,N,type4_possessive,test_type4_possessive_1959
+"If Victoria's dad has a private pilot, I wonder how well Victoria's dad's private pilot navigates.",Victoria's dad does not have a private pilot.,N,type4_possessive,test_type4_possessive_1960
+"If Christine has a ship, I wonder how fast Christine's ship sails.",Christine does not have a ship.,N,type4_possessive,test_type4_possessive_1961
+"If Janet has a hawk, I wonder how high Janet's hawk soars.",Janet does not have a hawk.,N,type4_possessive,test_type4_possessive_1962
+"If Timothy has an eagle, I wonder how high Timothy's eagle flies.",Timothy does not have an eagle.,N,type4_possessive,test_type4_possessive_1963
+"If this city has a mountain, I wonder how high the city's mountain is.",This city does not have a mountain.,N,type4_possessive,test_type4_possessive_1964
+"If this garden has a bees, I wonder how close the garden's bees buzz.",This garden does not have bees.,N,type4_possessive,test_type4_possessive_1965
+"If Frank has an old clock, I wonder how clear Frank's old clock chimes.",Frank does not have an old clock.,N,type4_possessive,test_type4_possessive_1966
+"If this beach has crabs, I wonder how quickly the beach's crabs scuttle.",This beach does not have crabs.,N,type4_possessive,test_type4_possessive_1967
+"If Heidi has a frog, I wonder how high Heidi's frog jumps.",Heidi does not have a frog.,N,type4_possessive,test_type4_possessive_1968
+"If Meredith has a heavy metal, I wonder how hard Meredith's heavy metal clangs.",Meredith does not have a heavy metal.,N,type4_possessive,test_type4_possessive_1969
+"If Larry has a camera, I wonder how quick Larry's camera takes pictures.",Larry does not have a camera.,N,type4_possessive,test_type4_possessive_1970
+"If Timothy has a sailboat, I wonder how fast Timothy's sailboat cruises.",Timothy does not have a sailboat.,N,type4_possessive,test_type4_possessive_1971
+"If Frank has a pet worm, I wonder how quickly Frank's pet worm wriggles.",Frank does not have a pet worm.,N,type4_possessive,test_type4_possessive_1972
+"If the museum has mirrors, I wonder how sharp the museum's mirrors reflect.",The museum does not have mirrors.,N,type4_possessive,test_type4_possessive_1973
+"If Gerald has a toddler, I wonder how slow Gerald's toddler toddles.",Gerald does not have a toddler.,N,type4_possessive,test_type4_possessive_1974
+"If Brian has a pet fox, I wonder how stealthily Brian's fox sneaks near.",Brian does not have a pet fox.,N,type4_possessive,test_type4_possessive_1975
+"If the sky has a horizon, I wonder how far the sky's horizon spreads.",The sky does not have a horizon.,N,type4_possessive,test_type4_possessive_1976
+"If Wendy has a violin, I wonder how deeply Wendy's violin resonates.",Wendy does not have a violin.,N,type4_possessive,test_type4_possessive_1977
+"If Peter has a whisk in the kitchen, I wonder how smoothly Peter's whisk blends.",Peter does not have a whisk in the kitchen.,N,type4_possessive,test_type4_possessive_1978
+"If the waitress has tomatoes in her garden, I wonder how quickly the waitress's tomatoes ripen.",The waitress does not have tomatoes in her garden.,N,type4_possessive,test_type4_possessive_1979
+"If Pam and Mary have a fan at their house, I wonder how fast Pam and Mary's fan cools.",Pam and Mary do not have a fan at their house.,N,type4_possessive,test_type4_possessive_1980
+"If Carmen has a lamp, I wonder how warmly Carmen's lamp illuminates.",Carmen does not have a lamp.,N,type4_possessive,test_type4_possessive_1981
+"If Natalie has a pebble, I wonder how far Natalie's pebble skims.",Natalie does not have a pebble.,N,type4_possessive,test_type4_possessive_1982
+"If the city has a statue, I wonder how tall the city's statue stands.",The city does not have a statue.,N,type4_possessive,test_type4_possessive_1983
+"If Jacqueline has a goldfish, I wonder how long Jacqueline's goldfish survives.",Jacqueline does not have a goldfish.,N,type4_possessive,test_type4_possessive_1984
+"If Carl has made cookies, I wonder how wonderful Carl's cookies taste.",Carl did not make cookies.,N,type4_possessive,test_type4_possessive_1985
+"If Helen has onions in her garden, I wonder how sweet Helen's onions taste.",Helen does not have onions in her garden.,N,type4_possessive,test_type4_possessive_1986
+"If Carol has a marmot, I wonder how sharp Carol's marmot whistles.",Carol does not have a marmot.,N,type4_possessive,test_type4_possessive_1987
+"If this village has a populace, I wonder how loud the village's populace chatters.",This village does not have a populace.,N,type4_possessive,test_type4_possessive_1988
+"If Bethany's house has a sauna, I wonder how hot Bethany's house's sauna steams.",Bethany's house does not have a sauna.,N,type4_possessive,test_type4_possessive_1989
+"If Sonia has a violinist, I wonder how well Sonia's violinist performs.",Sonia does not have a violinist.,N,type4_possessive,test_type4_possessive_1990
+"If Carla has made an adobe, I wonder how firm Carla's adobe withstands.",Carla did not make an adobe.,N,type4_possessive,test_type4_possessive_1991
+"If Tammy has a shampoo, I wonder how fresh Tammy's shampoo smells.",Tammy does not have shampoo.,N,type4_possessive,test_type4_possessive_1992
+"If Bradley has a chestnut, I wonder how sweet Bradley's chestnut tastes.",Bradley does not have a chestnut.,N,type4_possessive,test_type4_possessive_1993
+"If Jacqueline has a caravan, I wonder how far Jacqueline's caravan trails.",Jacqueline does not have a caravan.,N,type4_possessive,test_type4_possessive_1994
+"If Bill has an hourglass, I wonder how exact Bill's hourglass measures.",Bill does not have an hourglass.,N,type4_possessive,test_type4_possessive_1995
+"If Carlos has a sister, I wonder how hardworking Carlos's sister can be.",Carlos does not have a sister.,N,type4_possessive,test_type4_possessive_1996
+"If the guest has a hummingbird, I wonder how high the guest's hummingbird flies.",The guest does not have a hummingbird.,N,type4_possessive,test_type4_possessive_1997
+"If Jeffrey has an dog, I wonder how quietly Jeffrey's dog barks.",Jeffrey does not have a dog.,N,type4_possessive,test_type4_possessive_1998
+"If Vanessa has a baby brother, I wonder how loudly Vanessa's baby brother cries.",Vanessa does not have a baby brother.,N,type4_possessive,test_type4_possessive_1999
+"If Liam has a fish, I wonder how fast Liam's fish swims.",Liam does not have a fish.,N,type4_possessive,test_type4_possessive_2000
+"If Nadia has an orchid, I wonder how fast Nadia's orchid blooms.",Nadia does not have an orchid.,N,type4_possessive,test_type4_possessive_2001
+"If Mary has plants, I wonder how fast Mary's plants grow.",Mary does not have plants.,N,type4_possessive,test_type4_possessive_2002
+"If Ali has an indoor heater, I wonder how fast Ali's indoor heater heats the room.",Ali does not have an indoor heater.,N,type4_possessive,test_type4_possessive_2003
+"If Amy has a light bulb, I wonder how brightly Amy's light bulb lightens the place.",Amy does not have a light bulb.,N,type4_possessive,test_type4_possessive_2004
+"If Tania's garden has lemons, I wonder how sour Tania's garden's lemons taste.",Tania's garden does not have lemons.,N,type4_possessive,test_type4_possessive_2005
+"If Mia has a marker, I wonder how smoothly Mia's marker draws.",Mia does not have a marker.,N,type4_possessive,test_type4_possessive_2006
+"If Sina has a training dumbell, I wonder how heavy Sina's training dumbell weighs.",Sina does not have a training dumbbell.,N,type4_possessive,test_type4_possessive_2007
+"If Omid's garden has peppers, I wonder how hot Omid's garden's peppers taste.",Omid's garden does not have peppers.,N,type4_possessive,test_type4_possessive_2008
 "If Jessica attends the conference, her colleague will meet her at the hotel.",Jessica does not have a colleague.,C,type5_possessive,test_type5_possessive_2009
 "If Mia's car breaks down, her coworker will give her a ride to the office.",Mia does not have a coworker.,C,type5_possessive,test_type5_possessive_2010
 "If Jennifer finishes her presentation early, her colleagues will take her out for lunch.",Jennifer does not have colleagues.,C,type5_possessive,test_type5_possessive_2011
@@ -2187,26 +2187,26 @@ premise,hypothesis,gold_label,type,uid
 "Sam believes that if Kimberley treated a symptom of the disease, she'll never treat a symptom of the disease again.",Kimberley did not treat a symptom of the disease.,N,type1_again,test_type1_again_2186
 "Is it true that if Kimberley treated a symptom of the disease, she'll never treat a symptom of the disease again?",Kimberley did not treat a symptom of the disease.,N,type1_again,test_type1_again_2187
 "If Kimberley treated a symptom of the disease, she'll never treat a symptom of the disease again.",Kimberley did treat a symptom of the disease again.,C,type1_again,test_type1_again_2188
-"If the president has a talented brother, he'll coach his talented brother.",The president did not coach his talented brother.,N,type1_possessive,test_type1_possessive_2189
-"It's not the case that if the president has a talented brother, he'll coach his talented brother.",The president did not coach his talented brother.,N,type1_possessive,test_type1_possessive_2190
-"Sam believes that if the president has a talented brother, he'll coach his talented brother.",The president did not coach his talented brother.,N,type1_possessive,test_type1_possessive_2191
-"Is it true that if the president has a talented brother, he'll coach his talented brother?",The president did not coach his talented brother.,N,type1_possessive,test_type1_possessive_2192
-"If the president has a talented brother, he'll coach his talented brother.",The president does coach his talented brother.,C,type1_possessive,test_type1_possessive_2193
-"If Martin has a young stepson, he'll speak with his young stepson.",Martin did not speak with his young stepson.,N,type1_possessive,test_type1_possessive_2194
-"It's not the case that if Martin has a young stepson, he'll speak with his young stepson.",Martin did not speak with his young stepson.,N,type1_possessive,test_type1_possessive_2195
-"Sam believes that if Martin has a young stepson, he'll speak with his young stepson.",Martin did not speak with his young stepson.,N,type1_possessive,test_type1_possessive_2196
-"Is it true that if Martin has a young stepson, he'll speak with his young stepson?",Martin did not speak with his young stepson.,N,type1_possessive,test_type1_possessive_2197
-"If Martin has a young stepson, he'll speak with his young stepson.",Martin does speak with his young stepson.,C,type1_possessive,test_type1_possessive_2198
-"If Guy has an inspiring grandson, he'll kiss his inspiring grandson.",Guy did not kiss his inspiring grandson.,N,type1_possessive,test_type1_possessive_2199
-"It's not the case that if Guy has an inspiring grandson, he'll kiss his inspiring grandson.",Guy did not kiss his inspiring grandson.,N,type1_possessive,test_type1_possessive_2200
-"Sam believes that if Guy has an inspiring grandson, he'll kiss his inspiring grandson.",Guy did not kiss his inspiring grandson.,N,type1_possessive,test_type1_possessive_2201
-"Is it true that if Guy has an inspiring grandson, he'll kiss his inspiring grandson?",Guy did not kiss his inspiring grandson.,N,type1_possessive,test_type1_possessive_2202
-"If Guy has an inspiring grandson, he'll kiss his inspiring grandson.",Guy does kiss his inspiring grandson.,C,type1_possessive,test_type1_possessive_2203
-"If the actor has a trustable uncle, he'll promise his trustable uncle to stay.",The actor did not promise his trustable uncle to stay.,N,type1_possessive,test_type1_possessive_2204
-"It's not the case that if the actor has a trustable uncle, he'll promise his trustable uncle to stay.",The actor did not promise his trustable uncle to stay.,N,type1_possessive,test_type1_possessive_2205
-"Sam believes that if the actor has a trustable uncle, he'll promise his trustable uncle to stay.",The actor did not promise his trustable uncle to stay.,N,type1_possessive,test_type1_possessive_2206
-"Is it true that if the actor has a trustable uncle, he'll promise his trustable uncle to stay?",The actor did not promise his trustable uncle to stay.,N,type1_possessive,test_type1_possessive_2207
-"If the actor has a trustable uncle, he'll promise his trustable uncle to stay.",The actor does promise his trustable uncle to stay.,C,type1_possessive,test_type1_possessive_2208
+"If the president has a talented brother, he'll coach his talented brother.",The president did not coach his talented brother.,C,type1_possessive,test_type1_possessive_2189
+"It's not the case that if the president has a talented brother, he'll coach his talented brother.",The president did not coach his talented brother.,C,type1_possessive,test_type1_possessive_2190
+"Sam believes that if the president has a talented brother, he'll coach his talented brother.",The president did not coach his talented brother.,C,type1_possessive,test_type1_possessive_2191
+"Is it true that if the president has a talented brother, he'll coach his talented brother?",The president did not coach his talented brother.,C,type1_possessive,test_type1_possessive_2192
+"If the president has a talented brother, he'll coach his talented brother.",The president does coach his talented brother.,N,type1_possessive,test_type1_possessive_2193
+"If Martin has a young stepson, he'll speak with his young stepson.",Martin did not speak with his young stepson.,C,type1_possessive,test_type1_possessive_2194
+"It's not the case that if Martin has a young stepson, he'll speak with his young stepson.",Martin did not speak with his young stepson.,C,type1_possessive,test_type1_possessive_2195
+"Sam believes that if Martin has a young stepson, he'll speak with his young stepson.",Martin did not speak with his young stepson.,C,type1_possessive,test_type1_possessive_2196
+"Is it true that if Martin has a young stepson, he'll speak with his young stepson?",Martin did not speak with his young stepson.,C,type1_possessive,test_type1_possessive_2197
+"If Martin has a young stepson, he'll speak with his young stepson.",Martin does speak with his young stepson.,N,type1_possessive,test_type1_possessive_2198
+"If Guy has an inspiring grandson, he'll kiss his inspiring grandson.",Guy did not kiss his inspiring grandson.,C,type1_possessive,test_type1_possessive_2199
+"It's not the case that if Guy has an inspiring grandson, he'll kiss his inspiring grandson.",Guy did not kiss his inspiring grandson.,C,type1_possessive,test_type1_possessive_2200
+"Sam believes that if Guy has an inspiring grandson, he'll kiss his inspiring grandson.",Guy did not kiss his inspiring grandson.,C,type1_possessive,test_type1_possessive_2201
+"Is it true that if Guy has an inspiring grandson, he'll kiss his inspiring grandson?",Guy did not kiss his inspiring grandson.,C,type1_possessive,test_type1_possessive_2202
+"If Guy has an inspiring grandson, he'll kiss his inspiring grandson.",Guy does kiss his inspiring grandson.,N,type1_possessive,test_type1_possessive_2203
+"If the actor has a trustable uncle, he'll promise his trustable uncle to stay.",The actor did not promise his trustable uncle to stay.,C,type1_possessive,test_type1_possessive_2204
+"It's not the case that if the actor has a trustable uncle, he'll promise his trustable uncle to stay.",The actor did not promise his trustable uncle to stay.,C,type1_possessive,test_type1_possessive_2205
+"Sam believes that if the actor has a trustable uncle, he'll promise his trustable uncle to stay.",The actor did not promise his trustable uncle to stay.,C,type1_possessive,test_type1_possessive_2206
+"Is it true that if the actor has a trustable uncle, he'll promise his trustable uncle to stay?",The actor did not promise his trustable uncle to stay.,C,type1_possessive,test_type1_possessive_2207
+"If the actor has a trustable uncle, he'll promise his trustable uncle to stay.",The actor does promise his trustable uncle to stay.,N,type1_possessive,test_type1_possessive_2208
 "If Carlos collaborates with Joe in this project, he'll never collaborate with Joe in a project again.",Carlos will collaborate with Joe on a project.,N,type2_again,test_type2_again_2209
 "It's not the case that if Carlos collaborates with Joe in this project, he'll never collaborate with Joe in a project again.",Carlos will collaborate with Joe on a project.,N,type2_again,test_type2_again_2210
 "Sam believes that if Carlos collaborates with Joe in this project, he'll never collaborate with Joe in a project again.",Carlos will collaborate with Joe on a project.,N,type2_again,test_type2_again_2211
