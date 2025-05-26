@@ -46,8 +46,16 @@ The dataset is also available on the [Hugging Face Datasets Hub](https://hugging
 
 ## Citation
 
+```bibtex 
+@inproceedings{azin-etal-2025-confer,
+  author    = {Azin, Tara and Dumitrescu, Daniel and Inkpen, Diana and Singh, Raj},
+  year      = {2025},
+  title     = {Let’s CONFER: A dataset for evaluating natural language inference models on conditional inference and presupposition},
+  booktitle = {Proceedings of the Canadian Conference on Artificial Intelligence},
+  url       = {https://caiac.pubpub.org/pub/keh8ij01}
+}
 
-
+``` 
 
 ## License
 
