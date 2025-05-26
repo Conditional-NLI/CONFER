@@ -6,7 +6,7 @@ CONFER is a curated dataset of 18,000 sentence pairs in natural language inferen
 
 The dataset was introduced in our paper "Let’s CONFER: A Dataset for Evaluating Natural Language Inference Models on CONditional InFERence and Presupposition", where we probe both symbolic models and large language models on their ability to make inferences based on different conditional structures.
 
-**Link to Paper**: TBA
+**Link to Paper**: [Let’s CONFER: A Dataset for Evaluating Natural Language Inference Models on CONditional InFERence and Presupposition](https://caiac.pubpub.org/pub/keh8ij01/release/1)
 
 
 
